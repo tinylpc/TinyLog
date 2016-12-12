@@ -23,3 +23,7 @@
    TinyLog.getInstance().logColor("2222222222", "#1ab45c");
    TinyLog.getInstance().endWithSameTag();
 ```
+# 引用方式
+```
+   compile 'com.tinylpc:tinyLog:1.0.0'
+```
